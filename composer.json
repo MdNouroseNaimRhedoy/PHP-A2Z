@@ -1,7 +1,11 @@
 {
     "autoload": {
+
+        
+
         "psr-4": {
             "App\\": "app/"
-        }
+        },
+        "files": ["app/nourose/story.php","calculator/calculate.php"]
     }
 }
