@@ -3,6 +3,6 @@
 
     class Car{
         public function __construct(){
-            echo 'Car is created';
+            echo 'Car is created' . "\n";
         }
     }

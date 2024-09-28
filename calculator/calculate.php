@@ -1,4 +1,4 @@
 <?php 
     function test(){
-        echo "Rest";
+        echo "Rest" . "\n";
     }

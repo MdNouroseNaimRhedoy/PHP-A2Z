@@ -3,6 +3,6 @@
 
     class Post{
         public function __construct(){
-            echo 'Post is created';
+            echo 'Post is created' . "\n";
         }
     }

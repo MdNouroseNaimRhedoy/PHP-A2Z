@@ -3,6 +3,6 @@
 
     class Bus{
         public function __construct(){
-            echo 'Bus is created';
+            echo 'Bus is created' . "\n";
         }
     }

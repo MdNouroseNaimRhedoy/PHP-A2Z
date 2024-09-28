@@ -1,5 +1,5 @@
 <?php
 
     function shortstory(){
-        echo "Code Mele Na ";
+        echo "Code Mele Na " . "\n";
     }
